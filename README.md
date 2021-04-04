@@ -1,8 +1,8 @@
 <div align="center">
  
-# Source Codes - Zhirrr's API
+# Source Codes - Near's API
 <p align="center">
-<a href="#"><img title="Zhirrr's API" src="https://img.shields.io/badge/Zhirrr Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Near's API" src="https://img.shields.io/badge/Zhirrr Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Zhirrr"><img title="Author" src="https://img.shields.io/badge/Author-Zhirrr-orange.svg?style=for-the-badge&logo=github"></a>
